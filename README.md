@@ -10,7 +10,7 @@
   🇧🇷
   <br>
     
-   📖 Learning never ends |
+   💻 Learning never ends |
    💡 Looking for new challenges |
    🌐 Passionate about web development 
   ##
