@@ -11,8 +11,7 @@
   <br>
     
    💻 Learning never ends |
-   💡 Looking for new challenges |
-   🌐 Passionate about web development 
+   💡 Looking for new challenges
   ##
 </div>
   
